@@ -31,7 +31,7 @@ pip install yfinance pandas matplotlib
 
 * **Запуск**:
   ```bash
-  python trading_backtest.py
+  python crypto-algs.py
   ```
   *(После запуска скрипт попросит ввести в консоль название стратегии: `SMA` или `RSI`)*.
 
@@ -48,5 +48,5 @@ pip install yfinance pandas matplotlib
 
 * **Запуск**:
   ```bash
-  python investment_simulation.py
+  python crypto-long.py
   ```
